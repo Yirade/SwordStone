@@ -7,6 +7,6 @@ fi
 make
 
 if [ -x "game" ]; then
-export LD_LIBRARY_PATH=./libs/SFML/lib
+  export LD_LIBRARY_PATH=./libs/SFML/lib
   ./game -Wl,-rpath=./libs/SFML/lib
 fi
