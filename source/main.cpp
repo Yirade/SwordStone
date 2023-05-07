@@ -2,7 +2,7 @@
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(800, 600), "POO Game");
+    sf::RenderWindow window(sf::VideoMode(640, 360), "POO Game"); // 640x360
     
     while (window.isOpen())
     {

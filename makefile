@@ -3,7 +3,7 @@ CFLAGS=-I./libs/SFML/include
 LDFLAGS=-L./libs/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system
 SRC=./source/main.cpp
 OBJ=$(SRC:.cpp=.o)
-EXECUTABLE=./source/game
+EXECUTABLE=./source/bin/game
 
 all: $(EXECUTABLE)
 
