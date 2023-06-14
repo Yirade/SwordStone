@@ -1,0 +1,4 @@
+0: antiquity-print.ttf
+1: DungeonFont.ttf
+2: NotJamBlkltr16.ttf
+3: NotJamBlkltr13.ttf

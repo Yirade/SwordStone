@@ -1,0 +1,11 @@
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.o: \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/src/SFML/Audio/SoundSource.cpp \
+ /usr/include/stdc-predef.h \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/Config.hpp \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/System/Vector3.hpp \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/include/SFML/System/Vector3.inl \
+ /home/yirade/Documents/POO-Game/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
+ /usr/include/AL/al.h /usr/include/AL/alc.h

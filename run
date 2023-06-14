@@ -1,12 +1,12 @@
 #!/bin/bash
 
-if [ -e "./source/bin/game" ]; then
+if [ -e "./bin/game" ]; then
   make clean
 fi
 
 make
 
-if [ -x "./source/bin/game" ]; then
+if [ -x "./bin/game" ]; then
   export LD_LIBRARY_PATH=./libs/SFML/lib
   ./source/bin/game -Wl,-rpath=./libs/SFML/lib
 fi
