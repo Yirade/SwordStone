@@ -8,5 +8,5 @@ make
 
 if [ -x "./bin/game" ]; then
   export LD_LIBRARY_PATH=./libs/SFML/lib
-  ./source/bin/game -Wl,-rpath=./libs/SFML/lib
+  ./bin/game -Wl,-rpath=./libs/SFML/lib
 fi
